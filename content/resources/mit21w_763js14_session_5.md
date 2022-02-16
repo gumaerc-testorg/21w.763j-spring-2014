@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/bcd01076decd9183cb57a295d7acaeab_MIT21W_763JS14_Session_5.pdf
+file: /media/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/bcd01076decd9183cb57a295d7acaeab_MIT21W_763JS14_Session_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Session 5: Building the Characters'
 uid: bcd01076-decd-9183-cb57-a295d7acaeab
