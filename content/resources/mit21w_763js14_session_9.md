@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
 title: 'Session 9: Media Axis II - Sensory Information & Iconography'
 uid: df2a42f3-7d9f-e11c-dea2-6befc9277e3b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
 title: 'Session 15: Games & Immersive Experiences'
 uid: 31ae5dae-d9b4-ec5b-8277-4b35bcbdecce

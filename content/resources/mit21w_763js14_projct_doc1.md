@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: 485d5193-6c57-f950-6802-d204e6b8969f
 resourcetype: Document
 title: "Project Helheim \u2013 Document 1"
 uid: 9ccba8ad-a103-b873-eff2-0a5fcc9af1f0

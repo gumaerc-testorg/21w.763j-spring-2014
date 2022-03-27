@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
 title: 'Session 16: Fairy Tales, Folk Processes, and Fan Fic'
 uid: fb814db8-bed1-3c7d-0bfa-b882192cf8d6

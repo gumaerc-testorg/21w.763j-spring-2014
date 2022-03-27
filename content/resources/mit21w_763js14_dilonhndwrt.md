@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: 485d5193-6c57-f950-6802-d204e6b8969f
 resourcetype: Document
 title: Typescript
 uid: 9f0845f0-0316-bd9b-aea9-96f60f219fdc

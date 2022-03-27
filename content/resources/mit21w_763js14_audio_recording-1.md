@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: 485d5193-6c57-f950-6802-d204e6b8969f
 resourcetype: Other
 title: MIT21W_763JS14_audio_recording.mp3
 uid: 4f84c2b9-a978-6b26-1473-7283d8cd72e6

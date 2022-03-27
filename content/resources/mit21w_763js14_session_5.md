@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
 title: 'Session 5: Building the Characters'
 uid: bcd01076-decd-9183-cb57-a295d7acaeab

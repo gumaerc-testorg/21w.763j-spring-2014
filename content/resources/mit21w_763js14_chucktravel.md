@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: 485d5193-6c57-f950-6802-d204e6b8969f
 resourcetype: Document
 title: Chuck Travels on His Stomach
 uid: e14c5123-072a-2d86-5ecf-982807bd1cbc

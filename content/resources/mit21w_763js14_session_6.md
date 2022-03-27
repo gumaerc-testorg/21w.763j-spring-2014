@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
 title: 'Session 6: Building the Story'
 uid: e8f21226-8b4f-2825-ba30-2468b41b6b02

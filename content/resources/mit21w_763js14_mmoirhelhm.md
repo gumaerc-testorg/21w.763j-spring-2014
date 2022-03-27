@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: 485d5193-6c57-f950-6802-d204e6b8969f
 resourcetype: Document
 title: A Memoir of Helheim
 uid: 60985d8e-ea97-0ae8-4d77-a2e0ffccaa43

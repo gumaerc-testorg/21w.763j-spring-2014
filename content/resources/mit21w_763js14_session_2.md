@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
 title: 'Session 2: Science Fictions - The Genre and the Media'
 uid: 15ff0909-0ae5-af1b-1cbc-c2362acda997
