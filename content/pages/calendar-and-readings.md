@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, readings,
+  screenings, and playings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -38,7 +40,7 @@ READINGS, screenings, and playings
 
 Introduction
 
-[Instructor's Notes: What is Transmedia? (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_1)
+{{% resource_link 52fb1958-8ddf-931d-e8d9-927810ca3b61 "Instructor's Notes: What is Transmedia? (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -52,7 +54,7 @@ Introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Instructor's Notes: Science Fictions – The Genre and the Media (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_2)
+{{% resource_link 15ff0909-0ae5-af1b-1cbc-c2362acda997 "Instructor's Notes: Science Fictions – The Genre and the Media (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -68,7 +70,7 @@ Introduction
 
 Center of Narrative I
 
-[Instructor's Notes: Building the World (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_3)
+{{% resource_link 42d7a53d-4c62-6375-4ef3-b6e6dc203e68 "Instructor's Notes: Building the World (PDF)" %}}
 
 "[Dragon Explanation](https://www.youtube.com/watch?v=j0j0Bjy6hFc)." Excerpted from [_The Flight of Dragons_](http://www.imdb.com/title/tt0083951/). Directed by Jules Bass and Arthur Rankin, Jr. Color, 96 min. 1982.
 
@@ -94,7 +96,7 @@ Schroeder, Chawna. [_The Reader Writer Contract_](http://chawnaschroeder.blogspo
 
 World Building Exercises In Various Media
 
-[Handout: Worldbuilding Worksheet (PDF)]({{< baseurl >}}/resources/mit21w_763js14_wrldbuildng)
+{{% resource_link aeba04dd-270f-bc0b-c966-6ed7a17c357e "Handout: Worldbuilding Worksheet (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +118,7 @@ Complete intro of [_Zombies, Run_](https://www.zombiesrungame.com/).
 
 Center of Narrative II
 
-[Instructor's Notes: Building the Characters (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_5)
+{{% resource_link bcd01076-decd-9183-cb57-a295d7acaeab "Instructor's Notes: Building the Characters (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Center of Narrative II
 
 Center of Narrative III
 
-[Instructor's Notes: Building the Story (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_6)
+{{% resource_link e8f21226-8b4f-2825-ba30-2468b41b6b02 "Instructor's Notes: Building the Story (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -152,7 +154,7 @@ Center of Narrative III
 
 Center of Narrative IV
 
-[Instructor's Notes: What Makes it Speculative Fiction? (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_7)
+{{% resource_link cb45785c-4286-f9d6-e0a6-ad1d23d249a3 "Instructor's Notes: What Makes it Speculative Fiction? (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -166,7 +168,7 @@ Center of Narrative IV
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Instructor's Notes: Media Axis I – Information (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_8)
+{{% resource_link 214bc844-11c8-9631-76b9-bdc4f2462c68 "Instructor's Notes: Media Axis I – Information (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -184,7 +186,7 @@ Laetz, Brian, and Joshua J. Johnston. "[What is Fantasy?](http://dx.doi.org/10.1
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Instructor's Notes: Media Axis II – Sensory Information & Iconography (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_9)
+{{% resource_link df2a42f3-7d9f-e11c-dea2-6befc9277e3b "Instructor's Notes: Media Axis II – Sensory Information & Iconography (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 "[Richard III - Scene 2](https://www.youtube.com/watch?v=luplp0Vzd38)," "[Richard III - Scene 3](https://www.youtube.com/watch?v=pjJEXkbeL-o)," and "[Richard III Scene 12](https://www.youtube.com/watch?v=wl73yZdvBGY)." Excerpted from [_Richard III_](http://www.imdb.com/title/tt0114279/). Directed by Richard Loncraine. Color, 104 min. 1995.
@@ -210,9 +212,9 @@ Guest speaker [Sarah Zaiden](http://ateliermitti.tumblr.com/), narrative illustr
 {{< tdopen >}}
 
 
-[Instructor's Notes: Media Axis III – Arc of Story (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_11)
+{{% resource_link fac9efc1-0e47-3b42-2c38-518aa16ab873 "Instructor's Notes: Media Axis III – Arc of Story (PDF)" %}}
 
-[First Expansion Assignment Due (PDF)]({{< baseurl >}}/resources/mit21w_763js14_frst_exp)
+{{% resource_link 3394659f-1867-32dd-7645-6ed544707397 "First Expansion Assignment Due (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -230,7 +232,7 @@ Karp, Jesse. "How do Graphic Novels Work?" Chapter 2 in _Graphic Novels in Your 
 
 Imagination, Sensation, and Shapes of Experience
 
-[Instructor's Notes: Engaging the Audience for Repeat / Expansion Involvement (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_12)
+{{% resource_link b6614117-772f-d6ea-5f0b-812c3552ca59 "Instructor's Notes: Engaging the Audience for Repeat / Expansion Involvement (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -258,9 +260,9 @@ McCloud, Scott. [_The Visual Magic of Comics_](http://www.ted.com/talks/scott_mc
 {{< tdopen >}}
 
 
-[Instructor's Notes: Hunger Games – Book / Film / Digital Expansion in Real Life (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_14)
+{{% resource_link e403bc87-635a-5a2f-5560-f25f968c85c8 "Instructor's Notes: Hunger Games – Book / Film / Digital Expansion in Real Life (PDF)" %}}
 
-[Handout: Hunger Games Screening – Questions (PDF)]({{< baseurl >}}/resources/mit21w_763js14_hnger_gams)
+{{% resource_link 8791fb63-b51a-58f2-a1f7-a9bc042e30a7 "Handout: Hunger Games Screening – Questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -274,7 +276,7 @@ McCloud, Scott. [_The Visual Magic of Comics_](http://www.ted.com/talks/scott_mc
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Instructor's Notes: Games and Immersive Experience (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_15)
+{{% resource_link 31ae5dae-d9b4-ec5b-8277-4b35bcbdecce "Instructor's Notes: Games and Immersive Experience (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -298,7 +300,7 @@ Look at [_Capitol Couture_](https://thehungergames.fandom.com/wiki/Capitol_Coutu
 
 Folk process as Fanfic and Audience Participation in Creation in Multiple Media
 
-[Instructor's Notes: Fairy Tale, Folk Process, and Fan Fic (PDF)]({{< baseurl >}}/resources/mit21w_763js14_session_16)
+{{% resource_link fb814db8-bed1-3c7d-0bfa-b882192cf8d6 "Instructor's Notes: Fairy Tale, Folk Process, and Fan Fic (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -346,7 +348,7 @@ Work in Teams
 
 Work in Teams (cont.)
 
-[Critical Essay Due (PDF)]({{< baseurl >}}/resources/mit21w_763js14_crtcalesay)
+{{% resource_link 36cfdf99-34f6-8295-9706-053e5b42d4b0 "Critical Essay Due (PDF)" %}}
 
 
 {{< tdclose >}}
