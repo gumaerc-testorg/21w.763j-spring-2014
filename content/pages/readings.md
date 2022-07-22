@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings assigned for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 835797af-fd08-9366-0268-78da50b079be
 ---
@@ -9,7 +14,7 @@ Required Text
 
 \[SC\] = Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with [Google Books](http://books.google.com/books?id=Yz8Fnw0PlEQC&pg=PAfrontcover)\]
 
-This section focuses only on the readings assigned for the course. Not every class session has assigned readings. A full listing of all the course components, including these readings, can be found in the [Calendar]({{< baseurl >}}/pages/calendar-and-readings) section.
+This section focuses only on the readings assigned for the course. Not every class session has assigned readings. A full listing of all the course components, including these readings, can be found in the {{% resource_link 61d1d1cf-e9e9-225a-f779-20b79c3b0cdc "Calendar" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

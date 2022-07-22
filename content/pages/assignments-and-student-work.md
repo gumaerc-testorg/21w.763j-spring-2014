@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the three major assignments of the class
+  and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments and Student Work
 uid: 485d5193-6c57-f950-6802-d204e6b8969f
 ---
@@ -9,11 +14,11 @@ Major Assignments
 
 There will be three major assignments in this class.
 
-1.  [First Expansion (PDF)]({{< baseurl >}}/resources/mit21w_763js14_frst_exp)  
+1.  {{% resource_link 3394659f-1867-32dd-7645-6ed544707397 "First Expansion (PDF)" %}}  
     Due: Session 11  
     A single expansion of previous original work onto another platform.
     
-2.  [Critical Essay (PDF)]({{< baseurl >}}/resources/mit21w_763js14_crtcalesay)  
+2.  {{% resource_link 36cfdf99-34f6-8295-9706-053e5b42d4b0 "Critical Essay (PDF)" %}}  
     Due: Session 19  
     A critical, analytical essay on some specific aspect of transmedia or a single transmedia product.
     
@@ -34,30 +39,30 @@ _A Fictional Alternate History Post-WWII_
 by a group of MIT students
 
 Memoir  
-[A Memoir of Helheim (PDF)]({{< baseurl >}}/resources/mit21w_763js14_mmoirhelhm)
+{{% resource_link 60985d8e-ea97-0ae8-4d77-a2e0ffccaa43 "A Memoir of Helheim (PDF)" %}}
 
 Audio  
 [Project Helheim: A Fictional Alternate History Post-WWII]({{< baseurl >}}/resources/project-helheim-a-fictional-alternate-history-post-wwii)  
-[Project Helheim Dialogue for Recording Script (PDF)]({{< baseurl >}}/resources/mit21w_763js14_dilguercrdng)
+{{% resource_link d8561ca6-7d92-97ad-dd9c-9d041b03d874 "Project Helheim Dialogue for Recording Script (PDF)" %}}
 
 Correspondence  
-[Typescript (PDF)]({{< baseurl >}}/resources/mit21w_763js14_dilonhndwrt)
+{{% resource_link 9f0845f0-0316-bd9b-aea9-96f60f219fdc "Typescript (PDF)" %}}
 
 Food  
-[Chuck Travels on His Stomach (PDF)]({{< baseurl >}}/resources/mit21w_763js14_chucktravel)
+{{% resource_link e14c5123-072a-2d86-5ecf-982807bd1cbc "Chuck Travels on His Stomach (PDF)" %}}
 
 WWII Documents  
-[Project Helheim–Document 1 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_projct_doc1)  
-[Project Helheim–Document 2 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_projct_doc2)  
-[Project Helheim–Document 3 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_projct_doc3)  
-[Project Helheim–Document 4 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_projct_doc4)  
-[Project Helheim–Document 5 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_projct_doc5)  
-[Project Helheim–Document 6 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_projct_doc6)
+{{% resource_link 9ccba8ad-a103-b873-eff2-0a5fcc9af1f0 "Project Helheim–Document 1 (PDF)" %}}  
+{{% resource_link 0171a489-38a7-b210-788b-bb88ce74ec0d "Project Helheim–Document 2 (PDF)" %}}  
+{{% resource_link 859ca0d6-96f2-5f83-5fc7-e95d824c0580 "Project Helheim–Document 3 (PDF)" %}}  
+{{% resource_link b41b8052-f8fc-94e3-13bf-afa420f95cb1 "Project Helheim–Document 4 (PDF)" %}}  
+{{% resource_link e7818cf8-a14c-38af-4e7f-16d348ffa594 "Project Helheim–Document 5 (PDF)" %}}  
+{{% resource_link 3d12fc27-e1aa-61bb-b8c4-f49c9c91aed5 "Project Helheim–Document 6 (PDF)" %}}
 
 Video Blog  
-[Script 1 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_blog_1)  
-[Script 2 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_blog_2)  
-[Script 3 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_blog_3)
+{{% resource_link 38498f73-1159-9ffd-4194-db93de443a13 "Script 1 (PDF)" %}}  
+{{% resource_link 2a27c596-aac6-af19-6a22-19f12009ede3 "Script 2 (PDF)" %}}  
+{{% resource_link 3eb34c93-b923-a2e9-bd1b-15e29254f048 "Script 3 (PDF)" %}}
 
 **Imitation - Excerpts**
 
@@ -66,12 +71,12 @@ _Techno-dystopia in the 25th Century_
 by a group of MIT Students
 
 The Central Orbis Newspaper  
-[April 29, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_4-29-2480)  
-[May 27, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_5-27-2480)  
-[June 3, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_6-03-2480)  
-[June 7, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_6-07-2480)  
-[June 15, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_6-15-2480)  
-[June 19, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_6-19-2480)  
-[June 20, 2480 (PDF)]({{< baseurl >}}/resources/mit21w_763js14_6-20-2480)
+{{% resource_link 0449c63a-ba31-d0d4-a168-927965916ffc "April 29, 2480 (PDF)" %}}  
+{{% resource_link 4499fc31-415b-9d57-e8a2-f7dfca672705 "May 27, 2480 (PDF)" %}}  
+{{% resource_link 5b29f482-637b-7350-5cac-c19a864b7fc6 "June 3, 2480 (PDF)" %}}  
+{{% resource_link 0b2c831a-0e92-2122-c25c-d19a6dd728cd "June 7, 2480 (PDF)" %}}  
+{{% resource_link 04cd569d-b3a8-d010-d5ce-000d6ee095e0 "June 15, 2480 (PDF)" %}}  
+{{% resource_link 274468ab-8b08-404f-aed2-75b583cee904 "June 19, 2480 (PDF)" %}}  
+{{% resource_link 233b8dd6-96b3-ba80-3d9b-138f3005561e "June 20, 2480 (PDF)" %}}
 
 [The Hidden Zebra Blog](http://imquagga.blogspot.in/)
