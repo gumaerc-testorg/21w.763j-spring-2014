@@ -5,6 +5,7 @@ file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-20
 file_type: audio/mpeg
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
