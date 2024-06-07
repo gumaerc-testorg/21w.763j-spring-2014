@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/e14c5123072a2d865ecf982807bd1cbc_MIT21W_763JS14_ChuckTravel.pdf
+file_size: 582318
 file_type: application/pdf
 learning_resource_types:
 - Assignments

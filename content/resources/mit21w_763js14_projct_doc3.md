@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/859ca0d696f25f835fc7e95d824c0580_MIT21W_763JS14_Projct_doc3.pdf
+file_size: 70443
 file_type: application/pdf
 learning_resource_types:
 - Assignments

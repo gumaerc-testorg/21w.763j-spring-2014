@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/8791fb63b51a58f2a1f7a9bc042e30a7_MIT21W_763JS14_Hnger_Gams.pdf
+file_size: 246623
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
