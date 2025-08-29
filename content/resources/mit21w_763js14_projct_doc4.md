@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/b41b8052f8fc94e313bfafa420f95cb1_MIT21W_763JS14_Projct_doc4.pdf
+file: /ol-ocw-studio-app/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/b41b8052f8fc94e313bfafa420f95cb1_MIT21W_763JS14_Projct_doc4.pdf
 file_size: 68547
 file_type: application/pdf
 learning_resource_types:
