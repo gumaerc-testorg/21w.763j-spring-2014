@@ -79,4 +79,4 @@ The Central Orbis Newspaper
 {{% resource_link 274468ab-8b08-404f-aed2-75b583cee904 "June 19, 2480 (PDF)" %}}  
 {{% resource_link 233b8dd6-96b3-ba80-3d9b-138f3005561e "June 20, 2480 (PDF)" %}}
 
-[The Hidden Zebra Blog](http://imquagga.blogspot.in/)
+{{% resource_link "16eb1ab1-318f-4168-9dca-a47dc3046ffc" "The Hidden Zebra Blog" %}}
