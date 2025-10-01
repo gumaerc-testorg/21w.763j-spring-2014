@@ -37,9 +37,9 @@ Required Texts / Media
 
 Most readings will be made available online. The following text and game are required for the class and must be acquired by all students.
 
-Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with [Google Books](http://books.google.com/books?id=hlb_sM1AN0gC&printsec=frontcover)\]
+Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with {{% resource_link "d78a1ff8-baca-4be5-8034-cb30f7b8a67a" "Google Books" %}}\]
 
-[_Zombies, Run_](https://www.zombiesrungame.com/). Six to Start with Naomi Alderman, 2012-present.
+{{% resource_link "ee4ca22c-08ec-4a05-8d45-d0054d2104bf" "_Zombies, Run_" %}}. Six to Start with Naomi Alderman, 2012-present.
 
 Students will also be required to sign up for and use an online tool to create and share curated collections of multiple media.
 
