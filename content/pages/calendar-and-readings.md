@@ -11,7 +11,7 @@ uid: 61d1d1cf-e9e9-225a-f779-20b79c3b0cdc
 Required Text
 -------------
 
-\[SC\] = Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with [Google Books](http://books.google.com/books?id=hlb_sM1AN0gC&printsec=frontcover)\]
+\[SC\] = Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with {{% resource_link "d78a1ff8-baca-4be5-8034-cb30f7b8a67a" "Google Books" %}}\]
 
 Note: This section is intended to give an integrated overview of the course and how its different components fit together.  Not every class session includes every kind of resource (instructor's notes, readings, etc.).
 
@@ -72,16 +72,16 @@ Center of Narrative I
 
 {{% resource_link 42d7a53d-4c62-6375-4ef3-b6e6dc203e68 "Instructor's Notes: Building the World (PDF)" %}}
 
-"[Dragon Explanation](https://www.youtube.com/watch?v=j0j0Bjy6hFc)." Excerpted from [_The Flight of Dragons_](http://www.imdb.com/title/tt0083951/). Directed by Jules Bass and Arthur Rankin, Jr. Color, 96 min. 1982.
+"{{% resource_link "19a6ff45-5e53-4fcb-9793-97d10c86ed2c" "Dragon Explanation" %}}." Excerpted from {{% resource_link "de9a9bea-54c2-4879-afa3-c7063cbb0eb1" "_The Flight of Dragons_" %}}. Directed by Jules Bass and Arthur Rankin, Jr. Color, 96 min. 1982.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Stableford, Brian. "[The Third Generation of Science Fiction](http://www.jstor.org/stable/4240537)." _Science Fiction Studies_ 23, no. 3 (1996): 321–30.
+Stableford, Brian. "{{% resource_link "a2061f63-b9d3-4e12-8b43-6f7b55708fbb" "The Third Generation of Science Fiction" %}}." _Science Fiction Studies_ 23, no. 3 (1996): 321–30.
 
-Schroeder, Chawna. [_The Reader Writer Contract_](http://chawnaschroeder.blogspot.com/2009/02/reader-writer-contract.html). 2009.
+Schroeder, Chawna. {{% resource_link "59bff884-9760-43aa-93d7-5cbad8ac2bf3" "_The Reader Writer Contract_" %}}. 2009.
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ World Building Exercises In Various Media
 
 \[SC\] pp. 1–85.
 
-Complete intro of [_Zombies, Run_](https://www.zombiesrungame.com/).
+Complete intro of {{% resource_link "ee4ca22c-08ec-4a05-8d45-d0054d2104bf" "_Zombies, Run_" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,9 +173,9 @@ Center of Narrative IV
 {{< tdopen >}}
 
 
-Complete week 3 of [_Zombies, Run_](https://www.zombiesrungame.com/).
+Complete week 3 of {{% resource_link "ee4ca22c-08ec-4a05-8d45-d0054d2104bf" "_Zombies, Run_" %}}.
 
-Laetz, Brian, and Joshua J. Johnston. "[What is Fantasy?](http://dx.doi.org/10.1353/phl.0.0013)" _Philosophy and Literature_ 32, no. 1 (2008): 161–72.
+Laetz, Brian, and Joshua J. Johnston. "{{% resource_link "3db8c79f-de38-435c-b897-ff1707a698a4" "What is Fantasy?" %}}" _Philosophy and Literature_ 32, no. 1 (2008): 161–72.
 
 
 {{< tdclose >}}
@@ -189,7 +189,7 @@ Laetz, Brian, and Joshua J. Johnston. "[What is Fantasy?](http://dx.doi.org/10.1
 {{% resource_link df2a42f3-7d9f-e11c-dea2-6befc9277e3b "Instructor's Notes: Media Axis II – Sensory Information & Iconography (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-"[Richard III - Scene 2](https://www.youtube.com/watch?v=luplp0Vzd38)," "[Richard III - Scene 3](https://www.youtube.com/watch?v=pjJEXkbeL-o)," and "[Richard III Scene 12](https://www.youtube.com/watch?v=wl73yZdvBGY)." Excerpted from [_Richard III_](http://www.imdb.com/title/tt0114279/). Directed by Richard Loncraine. Color, 104 min. 1995.
+"{{% resource_link "58cae085-184d-4264-b5c0-63b92d58c632" "Richard III - Scene 2" %}}," "{{% resource_link "9bfcb62b-a597-41fc-b347-2e9bb56b3f9e" "Richard III - Scene 3" %}}," and "{{% resource_link "9fc1181e-9e13-4a96-80fd-59bcb1bd2ed2" "Richard III Scene 12" %}}." Excerpted from {{% resource_link "f6cf809e-8d59-4100-a780-6df0b4297aa8" "_Richard III_" %}}. Directed by Richard Loncraine. Color, 104 min. 1995.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,10 +198,10 @@ Laetz, Brian, and Joshua J. Johnston. "[What is Fantasy?](http://dx.doi.org/10.1
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Guest speaker [Sarah Zaiden](http://ateliermitti.tumblr.com/), narrative illustrator and super-hero scholar
+Guest speaker {{% resource_link "d2649e02-5c6a-4fc8-8f93-9881f4a853ef" "Sarah Zaiden" %}}, narrative illustrator and super-hero scholar
 {{< tdclose >}}
 {{< tdopen >}}
-[My So Called Secret Identity](http://www.mysocalledsecretidentity.com/), website for the comic / transmedia project co-authored by Sarah Zaiden. See especially the [About Cat](http://www.mysocalledsecretidentity.com/aboutcat) and [Sound & Vision](http://www.mysocalledsecretidentity.com/soundvision) sections.
+{{% resource_link "342a643f-adcb-4f40-a077-c4d17f2fdebd" "My So Called Secret Identity" %}}, website for the comic / transmedia project co-authored by Sarah Zaiden. See especially the {{% resource_link "afe049d1-d936-45dc-9deb-ad2fc68f0641" "About Cat" %}} and {{% resource_link "4cd15c31-fe28-4ba1-b7e0-e8c396962510" "Sound & Vision" %}} sections.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Guest speaker [Sarah Zaiden](http://ateliermitti.tumblr.com/), narrative illustr
 
 {{< tdclose >}}
 {{< tdopen >}}
-Karp, Jesse. "How do Graphic Novels Work?" Chapter 2 in _Graphic Novels in Your School Library_. American Library Association, 2011. ISBN: 9780838910894. \[Preview with [Google Books](http://books.google.com/books?id=AizO7StJA1kC&pg=PA9#v=onepage)\]
+Karp, Jesse. "How do Graphic Novels Work?" Chapter 2 in _Graphic Novels in Your School Library_. American Library Association, 2011. ISBN: 9780838910894. \[Preview with {{% resource_link "d839b6a3-6e6f-4a57-8bd3-945aaffd1bc3" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +249,7 @@ Imagination, Sensation, and Shapes of Experience
 First Expansion Presentations (very short)
 {{< tdclose >}}
 {{< tdopen >}}
-McCloud, Scott. [_The Visual Magic of Comics_](http://www.ted.com/talks/scott_mccloud_on_comics). TED Talk. TED.com. February, 2005.
+McCloud, Scott. {{% resource_link "20dae3f7-3d30-4954-beb5-010eee61dc07" "_The Visual Magic of Comics_" %}}. TED Talk. TED.com. February, 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,11 +281,11 @@ McCloud, Scott. [_The Visual Magic of Comics_](http://www.ted.com/talks/scott_mc
 {{< tdopen >}}
 
 
-Werris, Wendy. "'[Hunger Games' Producer Nina Jacobson on the Journey from Page to Screen](http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/50980-hunger-games-producer-nina-jacobson-on-the-journey-from-page-to-screen.html)." _Publishers Weekly_, 2012.
+Werris, Wendy. "'{{% resource_link "3e1a55e1-6a7b-4ca9-8264-33e940cc98f5" "Hunger Games' Producer Nina Jacobson on the Journey from Page to Screen" %}}." _Publishers Weekly_, 2012.
 
-Vary, Adam B. "[5 Things You Should Know About The Curious New Marketing Campaign For 'The Hunger Games: Catching Fire'](http://www.buzzfeed.com/adambvary/things-you-should-know-about-hunger-games-marketing-campaign)." _Buzzfeed_, 2013.
+Vary, Adam B. "{{% resource_link "2c0e52a9-052e-49bf-9297-d0e1da01407d" "5 Things You Should Know About The Curious New Marketing Campaign For 'The Hunger Games: Catching Fire'" %}}." _Buzzfeed_, 2013.
 
-Look at [_Capitol Couture_](https://thehungergames.fandom.com/wiki/Capitol_Couture).
+Look at {{% resource_link "ff9d7342-0489-49fc-98d9-8e4da193bda2" "_Capitol Couture_" %}}.
 
 
 {{< tdclose >}}
@@ -305,7 +305,7 @@ Folk process as Fanfic and Audience Participation in Creation in Multiple Media
 
 {{< tdclose >}}
 {{< tdopen >}}
-Punday, Daniel. "[Involvement, Interruption, and Inevitability: Melancholy as an Aesthetic Principle in Game Narratives](http://www.jstor.org/stable/3685546)." _SubStance_ 33, no. 3 (2004): 80–107.
+Punday, Daniel. "{{% resource_link "c76865df-710e-43a3-857f-1bbcdff47d0a" "Involvement, Interruption, and Inevitability: Melancholy as an Aesthetic Principle in Game Narratives" %}}." _SubStance_ 33, no. 3 (2004): 80–107.
 {{< tdclose >}}
 
 {{< trclose >}}
